@@ -1,0 +1,17 @@
+D:\Лабы по крипте\ЛюбительПива\ЛюбительПива\bin\Debug\net6.0-windows\ЛюбительПива.exe
+D:\Лабы по крипте\ЛюбительПива\ЛюбительПива\bin\Debug\net6.0-windows\ЛюбительПива.deps.json
+D:\Лабы по крипте\ЛюбительПива\ЛюбительПива\bin\Debug\net6.0-windows\ЛюбительПива.runtimeconfig.json
+D:\Лабы по крипте\ЛюбительПива\ЛюбительПива\bin\Debug\net6.0-windows\ЛюбительПива.dll
+D:\Лабы по крипте\ЛюбительПива\ЛюбительПива\bin\Debug\net6.0-windows\ЛюбительПива.pdb
+D:\Лабы по крипте\ЛюбительПива\ЛюбительПива\obj\Debug\net6.0-windows\ЛюбительПива.csproj.AssemblyReference.cache
+D:\Лабы по крипте\ЛюбительПива\ЛюбительПива\obj\Debug\net6.0-windows\ЛюбительПива.Form1.resources
+D:\Лабы по крипте\ЛюбительПива\ЛюбительПива\obj\Debug\net6.0-windows\ЛюбительПива.csproj.GenerateResource.cache
+D:\Лабы по крипте\ЛюбительПива\ЛюбительПива\obj\Debug\net6.0-windows\ЛюбительПива.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лабы по крипте\ЛюбительПива\ЛюбительПива\obj\Debug\net6.0-windows\ЛюбительПива.AssemblyInfoInputs.cache
+D:\Лабы по крипте\ЛюбительПива\ЛюбительПива\obj\Debug\net6.0-windows\ЛюбительПива.AssemblyInfo.cs
+D:\Лабы по крипте\ЛюбительПива\ЛюбительПива\obj\Debug\net6.0-windows\ЛюбительПива.csproj.CoreCompileInputs.cache
+D:\Лабы по крипте\ЛюбительПива\ЛюбительПива\obj\Debug\net6.0-windows\ЛюбительПива.dll
+D:\Лабы по крипте\ЛюбительПива\ЛюбительПива\obj\Debug\net6.0-windows\refint\ЛюбительПива.dll
+D:\Лабы по крипте\ЛюбительПива\ЛюбительПива\obj\Debug\net6.0-windows\ЛюбительПива.pdb
+D:\Лабы по крипте\ЛюбительПива\ЛюбительПива\obj\Debug\net6.0-windows\ЛюбительПива.genruntimeconfig.cache
+D:\Лабы по крипте\ЛюбительПива\ЛюбительПива\obj\Debug\net6.0-windows\ref\ЛюбительПива.dll
